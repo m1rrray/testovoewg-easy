@@ -138,8 +138,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-# create_session("ADMIN_PASSWORD")
+
 # get_session()
 # get_clients()
 # create_client('misha3')
-# get_configuration("9c05be31-2bb0-463d-b206-b8a56e40cc71")
+
