@@ -2,7 +2,7 @@ import argparse
 
 import requests
 
-url = "http://109.172.83.125:51821/api/"
+
 
 
 def create_session(password):
